@@ -1,0 +1,17 @@
+{
+  "name": "latnikov-swapcase",
+  "version": "1.0.0",
+  "description": "Simple realization of swapcase function in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swapcase",
+    "register",
+    "change"
+  ],
+  "author": "Maxim Latnikov",
+  "license": "ISC"
+}
